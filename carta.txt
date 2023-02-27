@@ -1,2 +1,3 @@
 hola como estas?
 aca, haciendo el curso de java
+hoy es lunes
